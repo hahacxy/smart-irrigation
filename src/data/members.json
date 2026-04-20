@@ -1,0 +1,114 @@
+{
+ "team": {
+  "name": "TeamVerse",
+  "slogan": "团队宇宙，汇聚每一位成员的光芒",
+  "description": "TeamVerse 是我们的团队展示空间，在这里你可以认识每一位团队成员、了解我们的项目、见证我们的成长历程。",
+  "logo": "/images/common/logo.gif"
+ },
+ "project": {
+  "name": "项目名称（请修改）",
+  "description": "项目简介（请修改）",
+  "startDate": "2026-03-01",
+  "techStack": [
+   "Vue 3",
+   "Vite",
+   "JavaScript"
+  ],
+  "goals": [
+   "目标1（请修改）",
+   "目标2（请修改）",
+   "目标3（请修改）"
+  ]
+ },
+ "members": [
+  {
+   "id": "member-1",
+   "name": "徐哲晖",
+   "role": "总负责人+流程设计",
+   "avatar": "/images/members/avatar-1.jpg",
+   "bio": "Attention is all you need",
+   "skills": ["调用AI", "物联网"],
+   "responsibility": "拆解任务、分工发放、项目介绍页面",
+   "social": {
+    "github": "https://github.com/xingzihai",
+    "email": "1315258019@qq.com"
+   }
+  },
+  {
+   "id": "member-2",
+   "name": "黄子锐",
+   "role": "嵌入式开发 / 智能硬件开发",
+   "avatar": "/images/members/avatar-2.jpg",
+   "bio": "专注嵌入式与智能硬件开发，负责智能灌溉系统小脑模块，熟练使用 MicroPython 与 ESP32 进行外设驱动与智能逻辑实现，注重稳定可靠的软硬件联调落地。",
+   "skills": ["MicroPython", "ESP32 开发", "硬件外设驱动", "智能体逻辑开发"],
+   "responsibility": "智能灌溉系统小脑模块，负责 ESP32 与各部件配置、联调及功能开发",
+   "social": {
+    "github": "https://github.com/Gaume1688",
+    "email": "1513227390@qq.com"
+   }
+  },
+  {
+   "id": "member-3",
+   "name": "陈星宇",
+   "role": "嵌入式开发/前端",
+   "avatar": "/images/members/avatar-3.jpeg",
+   "bio": "专注嵌入式与前端开发，负责智能灌溉系统电源模块，研究供电场景和电压需要。",
+   "skills": ["驱动与负载设计", "ESP32开发"],
+   "responsibility": "电源系统",
+   "social": {
+    "github": "https://github.com/hahacxy",
+    "email": "3189069812@qq.com"
+   }
+  },
+  {
+   "id": "member-4",
+   "name": "潘书韬",
+   "role": "时间线开发",
+   "avatar": "/images/members/avatar-4.jpeg",
+   "bio": "计算机专业,对机械感兴趣,会部分3D建模,载具爱好者",
+   "skills": ["3D建模3D打印", "java语言手机端简单开发", "C语言控制程序编写"],
+   "responsibility": "电源系统",
+   "social": {
+    "github": "https://github.com/pst070226",
+    "email": "2241724615@qq.com"
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "id": "milestone-1",
+   "date": "2026-03-01",
+   "title": "项目启动（请修改）",
+   "description": "里程碑描述（请修改）",
+   "status": "completed"
+  },
+  {
+   "id": "milestone-2",
+   "date": "2026-03-15",
+   "title": "需求分析完成（请修改）",
+   "description": "里程碑描述（请修改）",
+   "status": "completed"
+  },
+  {
+   "id": "milestone-3",
+   "date": "2026-04-01",
+   "title": "设计阶段（请修改）",
+   "description": "里程碑描述（请修改）",
+   "status": "in-progress"
+  },
+  {
+   "id": "milestone-4",
+   "date": "2026-04-15",
+   "title": "开发阶段（请修改）",
+   "description": "里程碑描述（请修改）",
+   "status": "pending"
+  },
+  {
+   "id": "milestone-5",
+   "date": "2026-05-01",
+   "title": "测试上线（请修改）",
+   "description": "里程碑描述（请修改）",
+   "status": "pending"
+  }
+ ]
+}
